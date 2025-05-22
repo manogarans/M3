@@ -42,8 +42,8 @@ return 0;
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/8a1f83ac-84af-48f3-a709-f65b4361c0fa)
 
-![image](https://github.com/user-attachments/assets/f97b76c6-9d03-4de1-be89-dedd40a189fa)
 
 
 
